@@ -1,10 +1,9 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 ## 👋 Welcome to my GitHub Profile!
 
 ### About Me
 
 I am passionate about cybersecurity, pentesting, and ethical hacking. My primary focus on this GitHub profile is to share valuable insights, tutorials, and resources related to these domains. I believe in continuous learning and strive to expand my knowledge in the field of cybersecurity.
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="satvik-vemulapalli" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/satvik-vemulapalli?trk=profile-badge">Satvik Vemulapalli</a></div>
               
 
 ### Projects and Contributions
