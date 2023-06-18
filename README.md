@@ -11,6 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=satvik-vs&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=satvik-vs&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=satvik-vs&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🎯TryHAckMe
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/1380640.png)](https://tryhackme.com/p/satvikshetty)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=satvik-vs&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
@@ -20,9 +23,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=satvik-vs&icon=0&color=0)](https://visitcount.itsvg.in)
