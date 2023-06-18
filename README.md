@@ -1,7 +1,11 @@
-# 💫 About Me:
-# Hi there, I'm Satvik Shetty! 👋<br>  <br>Welcome to my GitHub profile! I'm currently a B.Tech student pursuing a degree in Cybersecurity at Gitam University. Here's a little more about me:<br><br>## 🔭 Field of Study<br>- I'm focusing on Penetration Testing<br><br>## 💻 Technologies and Languages<br>- Proficient in C, Python, and Shell Scripting.<br>🚀 Projects and Interests<br>- I'm particularly interested in penetration testing and ethical hacking, where I aim to uncover vulnerabilities and help secure systems and networks.<br>- Actively involved in various projects related to cybersecurity, both independently and collaboratively.<br>- Always open to learning and exploring new ideas, tools, and techniques within the realm of cybersecurity.<br><br>## 🏆 Hackathons and CTFs<br>- I'm an avid participant in TryHackMe CTFs and regularly engage in room walkthroughs to enhance my practical skills.<br>-
-
-
+Hi there, I'm Satvik Shetty! 👋
+Welcome to my GitHub profile! I'm currently a B.Tech student pursuing a degree in Cybersecurity at Gitam University. Here are a few key points about me:
+🎓 I'm a B.Tech student in Cybersecurity at Gitam University.
+💻 Proficient in C, Python, and Shell Scripting.
+🔭 My main interests lie in penetration testing and ethical hacking.
+🚀 Actively participating in TryHackMe CTFs and collaborating on cybersecurity projects.
+💼 Actively seeking internship opportunities to gain real-world experience in cybersecurity.
+📚 Currently preparing for the eLearnSecurity Junior Penetration Tester (eJPT) certification and hold a network security certification.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/satvikshetty.v) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/satvik-vemulapalli) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/satvikshetty_v) 
 
