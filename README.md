@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=satvik-vs&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=satvik-vs&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ## 🎯TryHAckMe
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/1380640.png)](https://tryhackme.com/p/satvikshetty)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/SatvikShetty.png)](https://tryhackme.com/p/SatvikShetty)
 
 
 ## 🏆 GitHub Trophies
