@@ -29,3 +29,5 @@
 [![](https://visitcount.itsvg.in/api?id=satvik-vs&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+quote = 143.126.253.238 challenge = 68.183.244.64
